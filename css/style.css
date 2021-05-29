@@ -1,0 +1,19 @@
+body {
+    background-color: #fff;
+}
+
+#mainpanel {
+    margin-top: 70px;
+    background-color: rgb(240, 240, 240);
+    margin-right: auto;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.copyright {
+    text-align: end;
+}
